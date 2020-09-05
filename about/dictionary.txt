@@ -1,0 +1,91 @@
+
+PARTE 1 - INFORMAÇÕES DA INSTITUIÇÃO DE
+0 - ANO
+1 - CODIGO_IES
+2 - CODIGO_CATEGORIA
+3 - CODIGO_ORGANIZACAO_ACADEMICA
+4 - CODIGO_GRUPO
+5 - CODIGO_CURSO
+6 - CODIGO_MODALIDADE
+7 - CODIGO_MUNICIPIO
+8 - CODIGO_UF
+
+PARTE 2 - INFORMAÇÕES DO ESTUDANTE
+10 - IDADE_ALUNO
+11 - SEXO_ALUNO
+12 - ANO_CONC_ENS_MEDIO
+13 - ANO_INICIO_GRAD
+14 - SEMESTRE_GRAD
+15 - TURNO_MATUTINO
+16 - TURNO_VESPERTINO
+17 - TURNO_NOTURNO
+18 - STATUS_INSCRICAO
+19 - ESTUDANTE_SELECIONADO_PARA_PROVA
+20 - TIPO_INSCRICAO
+
+PARTE 8
+52 - Qual o grau de dificuldade desta prova na parte de Formação Geral?
+53 - Qual o grau de dificuldade desta prova na parte do Componente Específico?
+54 - Considerando a extensão da prova, em relação ao tempo total, você considera que a prova foi:
+55 - Os enunciados das questões da prova na parte de Formação Geral estavam claros e objetivos?
+56 - Os enunciados das questões na parte do Componente Específico estavam claros e objetivos?
+57 - As informações/instruções fornecidas para a resolução das questões foram suficientes para resolvê-las?
+58 - Você se deparou com alguma dificuldade ao responder à prova. Qual?
+59 - Considerando apenas as questões objetivas da prova, você percebeu que:
+60 - Qual foi o tempo gasto por você para concluir a prova?
+
+PARTE 9
+61 - Qual o seu estado civil?
+62 - Como você se considera?
+63 - Onde e como você mora atualmente?
+64 - Quantas pessoas, da sua família, moram com você na mesma casa? (Contando com seus pais, irmãos, cônjuge, filhos ou outros parentes que moram na mesma casa com você)
+65 - Somando a sua renda com a renda dos familiares que moram com você, quanto é, aproximadamente, a renda familiar? (Considere a renda de todos os seus familiares que moram na sua casa com você).
+66 - Assinale a situação abaixo que melhor descreve seu caso.
+67 - Indique a resposta que melhor descreve sua atual situação de trabalho (Não contar estágio, bolsas de pesquisa ou monitoria).
+68 - Durante o curso de graduação (responder somente no caso de ser concluinte):
+69 - Você recebeu ou recebe algum tipo de bolsa de estudos ou financiamento para custear as mensalidades do curso?
+70 - Que tipo de bolsa de estudos ou financiamento você recebeu ou recebe para custear as mensalidades do curso?
+71 - Você recebe ou recebeu alguma bolsa para custear outras despesas do curso?
+72 - Seu ingresso no curso de graduação se deu por meio de políticas de ação afirmativa?
+73 - Qual o grau de escolaridade do seu pai?
+74 - Qual o grau de escolaridade da sua mãe?
+75 - Onde você concluiu o ensino médio?
+76 - Você mudou de cidade, estado ou país para realizar este curso?
+77 - Em que tipo de escola você cursou o ensino médio?
+78 - Que tipo de curso de ensino médio você concluiu?
+79 - Excetuando-se os livros indicados na bibliografia do seu curso, quantos livros você leu neste ano?
+80 - Quantas horas por semana, aproximadamente, você dedicou aos estudos, excetuando as horas de aula?
+81 - Até o momento, qual turno concentrou a maior parte das disciplinas do seu curso?
+82 - As condições gerais das instalações físicas de salas de aula, bibliotecas e ambientes de trabalho e estudo para o funcionamento do curso são adequadas? (Se for estudante de EAD - Educação a distância, considere as condições do polo de apoio presencial e/ou sede).
+83 - As salas de aula são adequadas à quantidade de estudantes? (Se for estudante de EAD - Educação a distância, considere as condições do polo de apoio presencial e/ou sede).
+84 - As instalações de laboratórios, os equipamentos, os materiais e os serviçoes de apoio específicos do curso são adequados? (Se for estudante de EAD - Educação a distância, considere as condições do polo de apoio presencial e/ou sede).
+85 - Os ambientes para aulas práticas específicas do curso são adequados à quantidade de estudantes? (Se for estudante de EAD - Educação a distância, considere as condições do polo de apoio presencial e/ou sede).
+86 - Os equipamentos e/ou materiais disponíveis nos ambientes para aulas prátivas são suficientes para o número de estudantes? (Se for estudante de EAD - Educação a distância, considere as condições do polo de apoio presencial e/ou sede).
+87 - Como a sua instituição viabiliza o acesso dos estudantes de graduação à Internet para atender às necessidades do curso?
+88 - Como você caracteriza o uso de recursos audiovisuais e tecnológicos no seu curso?
+89 - Com que frequência você normalmente utiliza a biblioteca de sua instituição? (Se for estudante de EAD – Educação a distância, considere as condições do polo de apoio presencial e/ou sede).
+90 - Dentre as vezes em que precisou utilizar o acervo da biblioteca, você conseguiu ter acesso ao material? (Se for estudante de EAD – Educação a distância, considere as condições do polo de apoio presencial e/ou sede).
+91 - Como você avalia o acervo da biblioteca, quanto à atualização, em  face das necessidades curriculares do seu curso?
+92 - Como você avalia o acervo de periódicos científicos / acadêmicos disponíveis na biblioteca quanto à atualização?
+93 - O horário de funcionamento da biblioteca atende às suas necessidades? (Se for estudante de EAD – Educação a distância, considere as condições do polo de apoio presencial e/ou sede).
+94 - Os planos de ensino apresentados pelos professores contêm os seguintes aspectos: objetivos, metodologias de ensino e critérios de avaliação, conteúdos e bibliografia da disciplina?
+95 - Os conteúdos trabalhados pelos professores são coerentes com os que foram apresentados nos planos de ensino?
+96 - Os professores solicitam em suas disciplinas a realização de atividades de pesquisa?
+97 - Os professores indicam como material de estudo a utilização de livros-texto e/ou manuais?
+98 - Os professores indicam como material de estudo a utilização de artigos de periódicos especializados (artigos científicos)?
+99 - Os professores indicam a utilização em suas disciplinas materiais elaborados por eles?
+100 - As disciplinas do curso exigem domínio de língua estrangeira?
+101 - Os professores têm disponibilidade para atendimento fora do período de aula?
+102 - Os professores demonstram domínio do conteúdo das disciplinas?
+103 - O curso contextualiza o conhecimento da área (teorias, procedimentos, técnicas, instrumentos, etc.) com os temas gerais e situações do cotidiano da realidade brasileira?
+104 - Como você avalia o currículo do seu curso em relação à integração entre os conteúdos das diferentes disciplinas?
+105 - Seu curso oferece atividades complementares?
+106 - Você participou de programas de iniciação científica? Como foi a contribuição para a sua formação?
+107 - Você participou de programas de monitoria? Como foi a contribuição para a sua formação?
+108 - Você participou de programas de extensão? Como foi a contribuição para a sua formação?
+109 - Sua IES apoia financeiramente a participação dos estudantes em eventos (congressos, encontros, seminários, visitas técnicas etc.)?
+110 - Como você avalia o nível de exigência do curso?
+111 - Você considera que seu curso contribui para a aquisição de cultura geral?
+112 - Você considera que seu curso contribui para a aquisição de formação teórica na área?
+113 - Você considera que seu curso contribui na preparação para o exercício profissional?
+114 - Como você avalia a contribuição do curso para a sua formação?
