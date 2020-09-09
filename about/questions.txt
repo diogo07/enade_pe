@@ -1,0 +1,77 @@
+CO_RS_I1,Qual o grau de dificuldade desta prova na parte de Formação Geral?
+CO_RS_I2,Qual o grau de dificuldade desta prova na parte do Componente Específico?
+CO_RS_I3,Considerando a extensão da prova, em relação ao tempo total, você considera que a prova foi:
+CO_RS_I4,Os enunciados das questões da prova na parte de Formação Geral estavam claros e objetivos?
+CO_RS_I5,Os enunciados das questões na parte do Componente Específico estavam claros e objetivos?
+CO_RS_I6,As informações/instruções fornecidas para a resolução das questões foram suficientes para resolvê-las?
+CO_RS_I7,Você se deparou com alguma dificuldade ao responder à prova. Qual?
+CO_RS_I8,Considerando apenas as questões objetivas da prova, você percebeu que:
+CO_RS_I9,Qual foi o tempo gasto por você para concluir a prova?
+QE_I01,Qual o seu estado civil?
+QE_I02,Como você se considera?
+QE_I03,Qual a sua nacionalidade?
+QE_I04,Até que etapa de escolarização seu pai concluiu?
+QE_I05,Até que etapa de escolarização sua mãe concluiu?
+QE_I06,Onde e com quem você mora atualmente?
+QE_I07,Quantas pessoas da sua família moram com você? Considere seus pais, irmãos, cônjuge, filhos e outros parentes que moram na mesma casa com você.
+QE_I08,Qual a renda total de sua família, incluindo seus rendimentos?
+QE_I09,Qual alternativa a seguir melhor descreve sua situação financeira (incluindo bolsas)?
+QE_I10,Qual alternativa a seguir melhor descreve sua situação de trabalho (exceto estágio ou bolsas)?
+QE_I11,Que tipo de bolsa de estudos ou financiamento do curso você recebeu para custear todas ou a maior parte das mensalidades? No caso de haver mais de uma opção, marcar apenas a bolsa de maior duração.
+QE_I12,Ao longo da sua trajetória acadêmica, você recebeu algum tipo de auxílio permanência? No caso de haver mais de uma opção, marcar apenas a bolsa de maior duração.
+QE_I13,Ao longo da sua trajetória acadêmica, você recebeu algum tipo de bolsa acadêmica? No caso de haver mais de uma opção, marcar apenas a bolsa de maior duração.
+QE_I14,Durante o curso de graduação você participou de programas e/ou atividades curriculares no exterior?
+QE_I15,Seu ingresso no curso de graduação se deu por meio de políticas de ação afirmativa ou inclusão social?
+QE_I16,Em que unidade da Federação você concluiu o ensino médio?
+QE_I17,Em que tipo de escola você cursou o ensino médio?
+QE_I18,Qual modalidade de ensino médio você concluiu?
+QE_I19,Quem lhe deu maior incentivo para cursar a graduação?
+QE_I20,Algum dos grupos abaixo foi determinante para você enfrentar dificuldades durante seu curso superior e concluí-lo?
+QE_I21,Alguém em sua família concluiu um curso superior?
+QE_I22,Excetuando-se os livros indicados na bibliografia do seu curso, quantos livros você leu neste ano?
+QE_I23,Quantas horas por semana, aproximadamente, você dedicou aos estudos, excetuando as horas de aula?
+QE_I24,Você teve oportunidade de aprendizado de idioma estrangeiro na Instituição?
+QE_I25,Qual o principal motivo para você ter escolhido este curso?
+QE_I26,Qual a principal razão para você ter escolhido a sua instituição de educação superior?
+QE_I27,As disciplinas cursadas contribuíram para sua formação integral, como cidadão e profissional.
+QE_I28,Os conteúdos abordados nas disciplinas do curso favoreceram sua atuação em estágios ou em atividades de iniciação profissional.
+QE_I29,As metodologias de ensino utilizadas no curso desafiaram você a aprofundar conhecimentos e desenvolver competências reflexivas e críticas.
+QE_I30,O curso propiciou experiências de aprendizagem inovadoras.
+QE_I31,O curso contribuiu para o desenvolvimento da sua consciência ética para o exercício profissional.
+QE_I32,No curso você teve oportunidade de aprender a trabalhar em equipe.
+QE_I33,O curso possibilitou aumentar sua capacidade de reflexão e argumentação.
+QE_I34,O curso promoveu o desenvolvimento da sua capacidade de pensar criticamente, analisar e refletir sobre soluções para problemas da sociedade.
+QE_I35,O curso contribuiu para você ampliar sua capacidade de comunicação nas formas oral e escrita.
+QE_I36,O curso contribuiu para o desenvolvimento da sua capacidade de aprender e atualizar-se permanentemente.
+QE_I37,As relações professor-aluno ao longo do curso estimularam você a estudar e aprender.
+QE_I38,Os planos de ensino apresentados pelos professores contribuíram para o desenvolvimento das atividades acadêmicas e para seus estudos.
+QE_I39,As referências bibliográficas indicadas pelos professores nos planos de ensino contribuíram para seus estudos e aprendizagens.
+QE_I40,Foram oferecidas oportunidades para os estudantes superarem dificuldades relacionadas ao processo de formação.
+QE_I41,A coordenação do curso esteve disponível para orientação acadêmica dos estudantes.
+QE_I42,O curso exigiu de você organização e dedicação frequente aos estudos.
+QE_I43,Foram oferecidas oportunidades para os estudantes participarem de programas, projetos ou atividades de extensão universitária.
+QE_I44,Foram oferecidas oportunidades para os estudantes participarem de projetos de iniciação científica e de atividades que estimularam a investigação acadêmica.
+QE_I45,O curso ofereceu condições para os estudantes participarem de eventos internos e/ou externos à instituição.
+QE_I46,A instituição ofereceu oportunidades para os estudantes atuarem como representantes em órgãos colegiados.
+QE_I47,O curso favoreceu a articulação do conhecimento teórico com atividades práticas.
+QE_I48,As atividades práticas foram suficientes para relacionar os conteúdos do curso com a prática, contribuindo para sua formação profissional.
+QE_I49,O curso propiciou acesso a conhecimentos atualizados e/ou contemporâneos em sua área de formação.
+QE_I50,O estágio supervisionado proporcionou experiências diversificadas para a sua formação.
+QE_I51,As atividades realizadas durante seu trabalho de conclusão de curso contribuíram para qualificar sua formação profissional
+QE_I52,Foram oferecidas oportunidades para os estudantes realizarem intercâmbios e/ou estágios no país.
+QE_I53,Foram oferecidas oportunidades para os estudantes realizarem intercâmbios e/ou estágios fora do país.
+QE_I54,Os estudantes participaram de avaliações periódicas do curso (disciplinas, atuação dos professores, infraestrutura).
+QE_I55,As avaliações da aprendizagem realizadas durante o curso foram compatíveis com os conteúdos ou temas trabalhados pelos professores.
+QE_I56,Os professores apresentaram disponibilidade para atender os estudantes fora do horário das aulas.
+QE_I57,Os professores demonstraram domínio dos conteúdos abordados nas disciplinas.
+QE_I58,Os professores utilizaram tecnologias da informação e comunicação (TICs) como estratégia de ensino (projetor multimídia, laboratório de informática, ambiente virtual de aprendizagem).
+QE_I59,A instituição dispôs de quantidade suficiente de funcionários para o apoio administrativo e acadêmico.
+QE_I60,O curso disponibilizou monitores ou tutores para auxiliar os estudantes.
+QE_I61,As condições de infraestrutura das salas de aula foram adequadas.
+QE_I62,Os equipamentos e materiais disponíveis para as aulas práticas foram adequados para a quantidade de estudantes.
+QE_I63,Os ambientes e equipamentos destinados às aulas práticas foram adequados ao curso.
+QE_I64,A biblioteca dispôs das referências bibliográficas que os estudantes necessitaram.
+QE_I65,A instituição contou com biblioteca virtual ou conferiu acesso a obras disponíveis em acervos virtuais.
+QE_I66,As atividades acadêmicas desenvolvidas dentro e fora da sala de aula possibilitaram reflexão, convivência e respeito à diversidade.
+QE_I67,A instituição promoveu atividades de cultura, de lazer e de interação social.
+QE_I68,A instituição dispôs de refeitório, cantina e banheiros em condições adequadas que atenderam as necessidades dos seus usuários.
