@@ -1,9 +1,7 @@
 from _datetime import datetime
-
 from models.aluno import Aluno
 from models.curso import Curso
 from models.enade import Enade
-from models.resposta import Resposta
 from models.universidade import Universidade
 from repository.aluno_repository import AlunoRepository
 from repository.curso_repository import CursoRepository
@@ -54,8 +52,6 @@ if __name__ == '__main__':
                     dados.append(('QE_I0{}'.format(i), enade.id, row['QE_I0{}'.format(i)]))
                 else:
                     dados.append(('QE_I{}'.format(i), enade.id, row['QE_I{}'.format(i)]))
-                    # list_respostas = list_respostas + "INSERT INTO resposta_sobre_estudante(codigo_questao, id_enade, opcao) VALUES({}, {}, '{}');".format('QE_I{}'.format(i), 0, row['QE_I{}'.format(i)])
-                    # respostaRepository.insert(Resposta('QE_I{}'.format(i), enade.id, row['QE_I{}'.format(i)]))
 
             respostaRepository.insertMultipleRows(sql_respostas, dados)
     tempo_final = datetime.now()
